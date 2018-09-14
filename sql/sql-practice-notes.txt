@@ -1,0 +1,15 @@
+LIST OF HACKERRANK SQL PRACTICE PROBLEMS TO REVIEW:
+
+-- BASIC SELECT
+   -- weather-observation-station-5
+
+-- ADVANCED SELECT
+   -- type-of-triangle
+
+-- AGGREGATION
+   -- top-earners
+   -- weather-observation-station-15
+   -- weather-observation-station-17
+
+-- ALTERNATIVE QUERIES
+   -- draw-the-triangle-1
